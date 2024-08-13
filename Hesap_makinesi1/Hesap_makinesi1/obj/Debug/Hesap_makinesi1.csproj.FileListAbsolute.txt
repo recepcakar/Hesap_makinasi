@@ -1,0 +1,10 @@
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\bin\Debug\Hesap_makinesi1.exe.config
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\bin\Debug\Hesap_makinesi1.exe
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\bin\Debug\Hesap_makinesi1.pdb
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\obj\Debug\Hesap_makinesi1.csproj.AssemblyReference.cache
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\obj\Debug\Hesap_makinesi1.Form1.resources
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\obj\Debug\Hesap_makinesi1.Properties.Resources.resources
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\obj\Debug\Hesap_makinesi1.csproj.GenerateResource.cache
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\obj\Debug\Hesap_makinesi1.csproj.CoreCompileInputs.cache
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\obj\Debug\Hesap_makinesi1.exe
+C:\Users\FD Bilgisayar\source\repos\Hesap_makinesi1\Hesap_makinesi1\obj\Debug\Hesap_makinesi1.pdb
